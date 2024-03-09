@@ -1,0 +1,12 @@
+.main {
+    color:red;
+    font-weight: bold;
+    font-size: 32px;
+    background-color: black;
+}
+
+.link {
+    font-weight: bold;
+    font-size: 20;
+    align-items: center;
+}
