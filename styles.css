@@ -10,3 +10,10 @@
     font-size: 20;
     align-items: center;
 }
+
+.bottom {
+    font-style: italic;
+    font-size: 16px;
+    color: red;
+    background-color: black;
+}
