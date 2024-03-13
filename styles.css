@@ -5,13 +5,28 @@
     background-color: black;
 }
 
+body {
+    background-color: grey;
+}
+
+.card {
+    background-color: white;
+    padding: 30px;
+}
+
 .link {
     font-weight: bold;
     font-size: 20;
     align-items: center;
 }
 
-.recipe {
+.link-container {
+    border: 8px blue;
+    background-color: white;
+    
+}
+
+recipe {
     font-weight: bold;
     font-size: 20px;
     text-align: center;
@@ -24,6 +39,7 @@
     font-size: 16px;
     color: red;
     background-color: black;
+    text-align: center;
 }
 .steps {
     font-style: italic;
