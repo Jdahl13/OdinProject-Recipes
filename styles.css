@@ -33,6 +33,22 @@ recipe {
     color: white;
     display: inline;
 }
+
+.recipeTitle {
+    border: 8px solid black;
+    background-color: white;
+    text-align: center;
+}
+
+recipeDescription {
+    background-color: white;
+    margin: 8px;
+
+}
+
+.recipeIngredients {
+    background-color: white;
+}
 .updates{
     margin: 50px;
     font-size: 18px;
